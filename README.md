@@ -39,12 +39,6 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Profile-blue)](https://www.linkedin.com/in/trongio/)
 [![GitHub](https://img.shields.io/badge/GitHub-Profile-black)](https://github.com/trongio)
 
-### GitHub Stats (Private Repos Not considered)
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=trongio&show_icons=true&theme=radical)
-
-### Top Languages (Private Repos Not considered)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=trongio&layout=compact&theme=radical)
-
 ### Projects
 #### Casatrade
 - **Centralized Laravel Rest API**: Developed for use in all company apps.
