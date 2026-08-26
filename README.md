@@ -9,6 +9,7 @@
   <a href="https://hackerman.ge"><img src="https://img.shields.io/badge/Website-hackerman.ge-0A0A0A?style=flat-square&logo=firefoxbrowser&logoColor=white" alt="Website"></a>
   <a href="https://www.linkedin.com/in/trongio"><img src="https://img.shields.io/badge/LinkedIn-trongio-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
   <a href="mailto:giokakabadze50@gmail.com"><img src="https://img.shields.io/badge/Email-giokakabadze50@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email"></a>
+  <a href="https://wa.me/995595770360"><img src="https://img.shields.io/badge/WhatsApp-%2B995_595_77_03_60-25D366?style=flat-square&logo=whatsapp&logoColor=white" alt="WhatsApp"></a>
 </p>
 
 ---
@@ -83,10 +84,11 @@ Selected results:
 
 | Project | What it is | Stack |
 |---|---|---|
-| **[Zomboid Server Manager](https://github.com/trongio/Zomboid_Server_Manager_Docker)** ⭐ 75 | Open-source game server management panel: RCON integration, mod manager, Discord webhooks, one-command Docker bring-up | PHP · React · Docker |
-| **[Standalone Blade](https://github.com/trongio/standalone-blade)** | Laravel's Blade templating engine as a standalone package, with file-based routing | PHP |
-| **[MW2 Settings Editor](https://github.com/trongio/mw2-settings-editor)** | Described settings editor for a game config format, with a built-in tutorial and safe backups | Python · CustomTkinter |
-| **[AnyDesk Block Remover](https://github.com/trongio/anydesk_block_remove)** | One-command ID reset for Windows and Linux that preserves saved connections | PowerShell · Shell |
+| **[Zomboid Server Manager](https://github.com/trongio/Zomboid_Server_Manager_Docker)** ⭐ 75 | Game server control panel: RCON, mod manager, scheduled backups, Discord webhooks, multi-arch (amd64/arm64) Docker bring-up in one command | PHP · TypeScript · Docker · Lua |
+| **[IRONFRONT](https://github.com/trongio/lara-rts)** | Web multiplayer RTS. Server-authoritative match state over Laravel Reverb WebSockets: live server browser, rooms with stakes and spectators, presence, invites, coin ledger, Playwright e2e | Laravel 13 · PHP 8.4 · Postgres · Redis · Reverb · Vue 3 · PixiJS |
+| **[Padel Access Control](https://github.com/trongio/padel-access)** | Raspberry Pi door and lighting controller for a sports facility: keypad and OLED, one-time codes, relay control, operating modes, audit log, REST API over Cloudflare Tunnel, degrades to API-only without hardware | Python · systemd · Cloudflare Tunnel · GPIO |
+| **[VirgoTA](https://github.com/trongio/VirgoTA)** | Limit-order exchange: order matching at maker price, fund and asset locking, commission accounting, realtime trade notifications | Laravel 12 · Vue 3 · Inertia · PostgreSQL |
+| **[Prava App](https://github.com/trongio/Prava-App)** | Driving-theory exam app compiled to native iOS and Android from a Laravel codebase via NativePHP Mobile, with Fortify auth and 2FA | Laravel 12 · React 19 · Inertia v2 · NativePHP |
 
 Most of my production work lives in private repositories. Happy to walk through architecture and code in a call.
 
@@ -104,6 +106,7 @@ Georgian (native) · English (C1) · Russian (B1)
 
 <p align="center">
   <a href="mailto:giokakabadze50@gmail.com"><strong>Get in touch</strong></a> ·
+  <a href="https://wa.me/995595770360">WhatsApp</a> ·
   <a href="https://www.linkedin.com/in/trongio">LinkedIn</a> ·
   <a href="https://hackerman.ge">hackerman.ge</a>
 </p>
