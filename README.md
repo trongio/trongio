@@ -18,7 +18,7 @@
 
 Backend engineer with **9 years** on PHP 5 through 8, focused on realtime and high-concurrency systems.
 
-- Built **[gps.ge](https://gps.ge)** from zero: a GPS fleet-monitoring platform sustaining **26,000+ concurrent device connections** on PHP 8, Octane, WebSockets, Redis and MySQL. Its API powers fleet operations at TBC Bank, Bank of Georgia, Coca-Cola, Pepsi and Skytel.
+- Built **[api.gpscontrol.ge](https://api.gpscontrol.ge/?lang=en))** from zero: a GPS fleet-monitoring API sustaining **26,000+ concurrent device connections** on PHP 8, Octane, WebSockets, Redis and MySQL. Its API powers fleet operations at TBC Bank, Bank of Georgia, Coca-Cola, Pepsi and Skytel.
 - Built a facility **access-control IoT platform** from zero: a PHP backend orchestrating MQTT-connected ESP32 controllers and Raspberry Pi edge services, deployed at McDonald's among others.
 - Currently **lead a 3-engineer squad** modernizing legacy jQuery/Laravel: architecture, sprint planning, and code review culture.
 - Comfortable across the stack when it helps: Vue 3, React, TypeScript, Inertia, Tailwind.
